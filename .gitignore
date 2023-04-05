@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea
-Task2.iml
+/idea
+*.iml
 /out
