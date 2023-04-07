@@ -2,8 +2,8 @@
             public static void main(String[] args) {
 
                 int amount = 13676;
-                int x = 20;
-                int bonus = amount / x;
+                int bonusItem = 20;
+                int bonus = amount / bonusItem;
                 System.out.println (bonus);
 
 
